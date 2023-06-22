@@ -5,7 +5,7 @@ export default function Navbar()
 {
 return(
 <nav className="Navbar">
-<h1>Digital Business card</h1>
+<h1>Personal Digital portfolio</h1>
 
 </nav>
 
